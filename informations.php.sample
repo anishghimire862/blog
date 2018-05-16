@@ -1,0 +1,8 @@
+<?php
+class Configuration {
+    public static $serverName = "hostName";
+    public static $username = "database user";
+    public static $password = "password";
+    public static $dbname = "database name";
+}
+?>
